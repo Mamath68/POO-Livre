@@ -1,7 +1,7 @@
 <?
 
 class Livre
-{
+{ 
 
     private string $titre;
     private int $anparu;

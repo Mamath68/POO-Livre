@@ -16,7 +16,7 @@ echo $a1->afficherBibliographie();
 <style>
     h1 {
         text-align: center;
-        padding : 1em 0 0 0
+        padding : 1em 2em 0 0
     }
 
     p {
